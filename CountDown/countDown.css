@@ -1,0 +1,22 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(247, 200, 200);
+}
+
+.countdown{
+    display: flex;
+    /* font-size: 60px;
+    font-weight: bold; */
+    align-items: center;
+    justify-content: center;
+}
+.countdown p{
+    font-size: 50px;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(216, 246, 250);
+
+}

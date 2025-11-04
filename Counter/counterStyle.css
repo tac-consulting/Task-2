@@ -1,0 +1,35 @@
+body{
+background-color: rgb(148, 148, 243);
+font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.numbody{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.numbody h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.buttons button{
+   background: rgb(235, 235, 115);
+    padding: 10px 10px ;
+    border: 2px solid;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgb(230, 211, 211);
+}
